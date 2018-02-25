@@ -1,0 +1,11 @@
+﻿# made with checksum.. point-and-click hashing for windows (64-bit edition).
+# from corz.org.. http://corz.org/windows/software/checksum/
+#
+#md5#Base64EncodingTests.cs#2014.09.09@12.53:26
+9d2e14d55e57b93fcf2143600571328f *Base64EncodingTests.cs
+#md5#Base64HelperTests.cs#2014.09.09@13.10:48
+6cfb3aa8c74fdbb87c59087f7eaffa79 *Base64HelperTests.cs
+#md5#Base64LibraryTests.csproj#2014.09.09@13.23:44
+ec061a3c736bc4ed2e5d7802679b78ea *Base64LibraryTests.csproj
+#md5#SixtetHelperTests.cs#2014.09.09@13.25:16
+53cbdc56798814c6467228751abc8fb1 *SixtetHelperTests.cs

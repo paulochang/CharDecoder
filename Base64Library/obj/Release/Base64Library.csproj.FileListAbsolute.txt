@@ -1,0 +1,5 @@
+/Users/paulochang/Projects/CharDecoder/Base64Library/bin/Release/Base64Library.dll
+/Users/paulochang/Projects/CharDecoder/Base64Library/bin/Release/Base64Library.pdb
+/Users/paulochang/Projects/CharDecoder/Base64Library/obj/Release/Base64Library.csproj.CoreCompileInputs.cache
+/Users/paulochang/Projects/CharDecoder/Base64Library/obj/Release/Base64Library.dll
+/Users/paulochang/Projects/CharDecoder/Base64Library/obj/Release/Base64Library.pdb

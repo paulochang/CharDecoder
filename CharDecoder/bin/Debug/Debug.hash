@@ -1,0 +1,23 @@
+﻿# made with checksum.. point-and-click hashing for windows (64-bit edition).
+# from corz.org.. http://corz.org/windows/software/checksum/
+#
+#md5#Base64Library.dll#2014.09.09@13.29:28
+7cb6946418785a1d4a785602e2f5043a *Base64Library.dll
+#md5#Base64Library.pdb#2014.09.09@13.29:28
+bfb2619df522f35ad81eb0cb07092661 *Base64Library.pdb
+#md5#CharDecoder.exe#2014.09.09@13.29:28
+88afc644e578cbead6f18ff3057176bf *CharDecoder.exe
+#md5#CharDecoder.exe.config#2014.09.09@05.23:40
+09664edaeb56a10cbfa84f65767fb3b6 *CharDecoder.exe.config
+#md5#CharDecoder.pdb#2014.09.09@13.29:28
+092106d9f8327525b73adfc80b0f380b *CharDecoder.pdb
+#md5#CharDecoder.vshost.exe#2014.09.09@13.43:06
+00c54466cfc232e2ba1dfc4f3a679f05 *CharDecoder.vshost.exe
+#md5#CharDecoder.vshost.exe.config#2014.09.09@05.23:40
+09664edaeb56a10cbfa84f65767fb3b6 *CharDecoder.vshost.exe.config
+#md5#CharDecoder.vshost.exe.manifest#2013.06.18@06.28:16
+a19a2658ba69030c6ac9d11fd7d7e3c1 *CharDecoder.vshost.exe.manifest
+#md5#EntityFramework.dll#2014.09.09@05.11:10
+28f50369ca372101d682b6a86f4bec8e *EntityFramework.dll
+#md5#EntityFramework.xml#2014.09.09@05.11:10
+5882359558de19970e9eba80690ae995 *EntityFramework.xml

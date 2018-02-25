@@ -1,0 +1,28 @@
+C:/Users/Paulo/documents/visual studio 2013/Projects/CharDecoder/CharDecoder/obj/Debug/Base64Converter.csprojResolveAssemblyReference.cache
+C:/Users/Paulo/documents/visual studio 2013/Projects/CharDecoder/CharDecoder/obj/Debug/Base64Converter.MainForm.resources
+C:/Users/Paulo/documents/visual studio 2013/Projects/CharDecoder/CharDecoder/obj/Debug/Base64Converter.Properties.Resources.resources
+C:/Users/Paulo/documents/visual studio 2013/Projects/CharDecoder/CharDecoder/obj/Debug/Base64Converter.csproj.GenerateResource.Cache
+C:/Users/Paulo/documents/visual studio 2013/Projects/CharDecoder/CharDecoder/bin/Debug/CharDecoder.exe.config
+C:/Users/Paulo/documents/visual studio 2013/Projects/CharDecoder/CharDecoder/bin/Debug/CharDecoder.exe
+C:/Users/Paulo/documents/visual studio 2013/Projects/CharDecoder/CharDecoder/bin/Debug/CharDecoder.pdb
+C:/Users/Paulo/documents/visual studio 2013/Projects/CharDecoder/CharDecoder/bin/Debug/Base64Library.dll
+C:/Users/Paulo/documents/visual studio 2013/Projects/CharDecoder/CharDecoder/bin/Debug/EntityFramework.dll
+C:/Users/Paulo/documents/visual studio 2013/Projects/CharDecoder/CharDecoder/bin/Debug/Base64Library.pdb
+C:/Users/Paulo/documents/visual studio 2013/Projects/CharDecoder/CharDecoder/bin/Debug/EntityFramework.xml
+C:/Users/Paulo/documents/visual studio 2013/Projects/CharDecoder/CharDecoder/obj/Debug/CharDecoder.exe
+C:/Users/Paulo/documents/visual studio 2013/Projects/CharDecoder/CharDecoder/obj/Debug/CharDecoder.pdb
+/Users/paulochang/Projects/CharDecoder/CharDecoder/bin/Debug/CharDecoder.exe.config
+/Users/paulochang/Projects/CharDecoder/CharDecoder/bin/Debug/CharDecoder.exe
+/Users/paulochang/Projects/CharDecoder/CharDecoder/bin/Debug/CharDecoder.pdb
+/Users/paulochang/Projects/CharDecoder/CharDecoder/bin/Debug/Base64Library.dll
+/Users/paulochang/Projects/CharDecoder/CharDecoder/bin/Debug/EntityFramework.dll
+/Users/paulochang/Projects/CharDecoder/CharDecoder/bin/Debug/Base64Library.pdb
+/Users/paulochang/Projects/CharDecoder/CharDecoder/bin/Debug/Base64Library.dll.mdb
+/Users/paulochang/Projects/CharDecoder/CharDecoder/bin/Debug/EntityFramework.xml
+/Users/paulochang/Projects/CharDecoder/CharDecoder/obj/Debug/Base64Converter.csprojResolveAssemblyReference.cache
+/Users/paulochang/Projects/CharDecoder/CharDecoder/obj/Debug/Base64Converter.MainForm.resources
+/Users/paulochang/Projects/CharDecoder/CharDecoder/obj/Debug/Base64Converter.Properties.Resources.resources
+/Users/paulochang/Projects/CharDecoder/CharDecoder/obj/Debug/Base64Converter.csproj.GenerateResource.Cache
+/Users/paulochang/Projects/CharDecoder/CharDecoder/obj/Debug/Base64Converter.csproj.CoreCompileInputs.cache
+/Users/paulochang/Projects/CharDecoder/CharDecoder/obj/Debug/CharDecoder.exe
+/Users/paulochang/Projects/CharDecoder/CharDecoder/obj/Debug/CharDecoder.pdb

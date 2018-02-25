@@ -1,0 +1,5 @@
+/Volumes/SP PHD U3/Paulo/usb/CharDecoder/Base64Library/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/Volumes/SP PHD U3/Paulo/usb/CharDecoder/Base64Library/bin/Debug/Base64Library.dll.mdb
+/Volumes/SP PHD U3/Paulo/usb/CharDecoder/Base64Library/bin/Debug/Base64Library.dll
+/Volumes/SP PHD U3/Paulo/usb/CharDecoder/Base64Library/obj/Debug/Base64Library.dll
+/Volumes/SP PHD U3/Paulo/usb/CharDecoder/Base64Library/obj/Debug/Base64Library.dll.mdb

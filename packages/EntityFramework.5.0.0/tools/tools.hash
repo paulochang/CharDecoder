@@ -1,0 +1,25 @@
+﻿# made with checksum.. point-and-click hashing for windows (64-bit edition).
+# from corz.org.. http://corz.org/windows/software/checksum/
+#
+#md5#about_EntityFramework.help.txt#2014.09.09@05.11:10
+e3a86d7ab2a26070640eeb07b615ee4b *about_EntityFramework.help.txt
+#md5#EntityFramework.PowerShell.dll#2014.09.09@05.11:10
+acbdc58c55eace1c6f91ba00c4db1b17 *EntityFramework.PowerShell.dll
+#md5#EntityFramework.PowerShell.Utility.dll#2014.09.09@05.11:10
+619bbf105747bbb9ceb730daebffb3ea *EntityFramework.PowerShell.Utility.dll
+#md5#EntityFramework.PS3.psd1#2014.09.09@05.11:10
+41125215eb953bb25d303c5b8210b9e5 *EntityFramework.PS3.psd1
+#md5#EntityFramework.psd1#2014.09.09@05.11:10
+dbaedbdbc7fe881b23038a19c01eaa3d *EntityFramework.psd1
+#md5#EntityFramework.psm1#2014.09.09@05.11:10
+9cdb040dff6811bb3d62732d095321ab *EntityFramework.psm1
+#md5#init.ps1#2014.09.09@05.11:10
+933c90e7e09d6fc635a543d19a941618 *init.ps1
+#md5#install.ps1#2014.09.09@05.11:10
+50c689432487d4c7360c626a5a67d3f5 *install.ps1
+#md5#migrate.exe#2014.09.09@05.11:10
+2e33b7b2f9ccc8d9819b5cff9b7df50d *migrate.exe
+#md5#Redirect.config#2014.09.09@05.11:10
+661206542e125847aab68b717ba46053 *Redirect.config
+#md5#Redirect.VS11.config#2014.09.09@05.11:10
+476f639d44d8645360cbbb9004730daa *Redirect.VS11.config

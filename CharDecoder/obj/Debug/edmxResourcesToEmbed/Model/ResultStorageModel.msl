@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="cs_base64ModelStoreContainer" CdmEntityContainer="cs_base64Entities">
+    <EntitySetMapping Name="keys">
+      <EntityTypeMapping TypeName="cs_base64Model.key">
+        <MappingFragment StoreEntitySet="keys">
+          <ScalarProperty Name="secret_key" ColumnName="secret_key" />
+          <ScalarProperty Name="id_key" ColumnName="id_key" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

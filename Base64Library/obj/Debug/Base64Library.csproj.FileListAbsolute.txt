@@ -1,0 +1,9 @@
+C:/Users/Paulo/documents/visual studio 2013/Projects/CharDecoder/Base64Library/bin/Debug/Base64Library.dll
+C:/Users/Paulo/documents/visual studio 2013/Projects/CharDecoder/Base64Library/bin/Debug/Base64Library.pdb
+C:/Users/Paulo/documents/visual studio 2013/Projects/CharDecoder/Base64Library/obj/Debug/Base64Library.dll
+C:/Users/Paulo/documents/visual studio 2013/Projects/CharDecoder/Base64Library/obj/Debug/Base64Library.pdb
+/Users/paulochang/Projects/CharDecoder/Base64Library/bin/Debug/Base64Library.dll
+/Users/paulochang/Projects/CharDecoder/Base64Library/bin/Debug/Base64Library.pdb
+/Users/paulochang/Projects/CharDecoder/Base64Library/obj/Debug/Base64Library.csproj.CoreCompileInputs.cache
+/Users/paulochang/Projects/CharDecoder/Base64Library/obj/Debug/Base64Library.dll
+/Users/paulochang/Projects/CharDecoder/Base64Library/obj/Debug/Base64Library.pdb

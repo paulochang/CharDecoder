@@ -1,0 +1,14 @@
+/Users/paulochang/Projects/CharDecoder/CharDecoder/bin/Release/CharDecoder.exe.config
+/Users/paulochang/Projects/CharDecoder/CharDecoder/bin/Release/CharDecoder.exe
+/Users/paulochang/Projects/CharDecoder/CharDecoder/bin/Release/CharDecoder.pdb
+/Users/paulochang/Projects/CharDecoder/CharDecoder/bin/Release/Base64Library.dll
+/Users/paulochang/Projects/CharDecoder/CharDecoder/bin/Release/EntityFramework.dll
+/Users/paulochang/Projects/CharDecoder/CharDecoder/bin/Release/Base64Library.pdb
+/Users/paulochang/Projects/CharDecoder/CharDecoder/bin/Release/EntityFramework.xml
+/Users/paulochang/Projects/CharDecoder/CharDecoder/obj/Release/Base64Converter.csprojResolveAssemblyReference.cache
+/Users/paulochang/Projects/CharDecoder/CharDecoder/obj/Release/Base64Converter.MainForm.resources
+/Users/paulochang/Projects/CharDecoder/CharDecoder/obj/Release/Base64Converter.Properties.Resources.resources
+/Users/paulochang/Projects/CharDecoder/CharDecoder/obj/Release/Base64Converter.csproj.GenerateResource.Cache
+/Users/paulochang/Projects/CharDecoder/CharDecoder/obj/Release/Base64Converter.csproj.CoreCompileInputs.cache
+/Users/paulochang/Projects/CharDecoder/CharDecoder/obj/Release/CharDecoder.exe
+/Users/paulochang/Projects/CharDecoder/CharDecoder/obj/Release/CharDecoder.pdb

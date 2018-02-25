@@ -1,0 +1,21 @@
+﻿# made with checksum.. point-and-click hashing for windows (64-bit edition).
+# from corz.org.. http://corz.org/windows/software/checksum/
+#
+#md5#HumanFriendlyKey.cs#2014.09.09@10.29:52
+62c2d93ee0bc00e8f21aaf48d4b87c72 *HumanFriendlyKey.cs
+#md5#key.cs#2014.09.09@06.03:36
+dbcb2199f57d32b1664b2178425586eb *key.cs
+#md5#ResultStorageModel.Context.cs#2014.09.09@06.03:34
+9f946061d4c2fc17efb1b5616db0ece5 *ResultStorageModel.Context.cs
+#md5#ResultStorageModel.Context.tt#2014.09.09@05.11:08
+8db07c3f186769d09a62bbda5d0a2211 *ResultStorageModel.Context.tt
+#md5#ResultStorageModel.cs#2014.09.09@06.03:36
+9b6e80b3574379d6b725a79e20779fdf *ResultStorageModel.cs
+#md5#ResultStorageModel.Designer.cs#2014.09.09@06.03:38
+ce54031893a244e881b1efcc0c0d7b26 *ResultStorageModel.Designer.cs
+#md5#ResultStorageModel.edmx#2014.09.09@06.03:32
+50d37934f326727ac25daff5aaf0a058 *ResultStorageModel.edmx
+#md5#ResultStorageModel.edmx.diagram#2014.09.09@06.03:32
+d83b135e60978497b45ed184bc4e0650 *ResultStorageModel.edmx.diagram
+#md5#ResultStorageModel.tt#2014.09.09@05.11:12
+c2b687ae7982618380599f82eb2e704d *ResultStorageModel.tt

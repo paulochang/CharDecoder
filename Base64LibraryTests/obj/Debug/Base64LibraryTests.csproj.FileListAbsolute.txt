@@ -1,0 +1,7 @@
+C:\Users\Paulo\documents\visual studio 2013\Projects\CharDecoder\Base64LibraryTests\bin\Debug\Base64LibraryTests.dll
+C:\Users\Paulo\documents\visual studio 2013\Projects\CharDecoder\Base64LibraryTests\bin\Debug\Base64LibraryTests.pdb
+C:\Users\Paulo\documents\visual studio 2013\Projects\CharDecoder\Base64LibraryTests\bin\Debug\Base64Library.dll
+C:\Users\Paulo\documents\visual studio 2013\Projects\CharDecoder\Base64LibraryTests\bin\Debug\Base64Library.pdb
+C:\Users\Paulo\documents\visual studio 2013\Projects\CharDecoder\Base64LibraryTests\obj\Debug\Base64LibraryTests.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\documents\visual studio 2013\Projects\CharDecoder\Base64LibraryTests\obj\Debug\Base64LibraryTests.dll
+C:\Users\Paulo\documents\visual studio 2013\Projects\CharDecoder\Base64LibraryTests\obj\Debug\Base64LibraryTests.pdb

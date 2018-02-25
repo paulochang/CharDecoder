@@ -1,0 +1,8 @@
+c:\users\paulo\documents\visual studio 2013\Projects\CharDecoder\CharDecoder\bin\Debug\CharDecoder.exe.config
+c:\users\paulo\documents\visual studio 2013\Projects\CharDecoder\CharDecoder\bin\Debug\CharDecoder.exe
+c:\users\paulo\documents\visual studio 2013\Projects\CharDecoder\CharDecoder\bin\Debug\CharDecoder.pdb
+c:\users\paulo\documents\visual studio 2013\Projects\CharDecoder\CharDecoder\obj\Debug\CharDecoder.Form1.resources
+c:\users\paulo\documents\visual studio 2013\Projects\CharDecoder\CharDecoder\obj\Debug\CharDecoder.Properties.Resources.resources
+c:\users\paulo\documents\visual studio 2013\Projects\CharDecoder\CharDecoder\obj\Debug\CharDecoder.csproj.GenerateResource.Cache
+c:\users\paulo\documents\visual studio 2013\Projects\CharDecoder\CharDecoder\obj\Debug\CharDecoder.exe
+c:\users\paulo\documents\visual studio 2013\Projects\CharDecoder\CharDecoder\obj\Debug\CharDecoder.pdb

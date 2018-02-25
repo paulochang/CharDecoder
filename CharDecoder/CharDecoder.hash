@@ -1,0 +1,19 @@
+﻿# made with checksum.. point-and-click hashing for windows (64-bit edition).
+# from corz.org.. http://corz.org/windows/software/checksum/
+#
+#md5#App.config#2014.09.09@05.23:40
+09664edaeb56a10cbfa84f65767fb3b6 *App.config
+#md5#Base64Converter.csproj#2014.09.09@10.09:54
+34dfce2876b519c4cb432ca6f5d96c5a *Base64Converter.csproj
+#md5#Base64Converter.csproj.user#2014.09.09@10.11:22
+b3d7ae1e5744ccf536d027bd4f74e258 *Base64Converter.csproj.user
+#md5#MainForm.cs#2014.09.09@12.26:58
+3c18bc65d58d4372f6cf614fde03f042 *MainForm.cs
+#md5#MainForm.Designer.cs#2014.09.09@10.31:06
+ec4ee4aaf407ee00c15850e7deee29c1 *MainForm.Designer.cs
+#md5#MainForm.resx#2014.09.09@10.31:06
+4eb5913a0e5aa842250f7419538fa230 *MainForm.resx
+#md5#packages.config#2014.09.09@05.11:10
+d0a073e72e5d6116d4875a8df248b5c0 *packages.config
+#md5#Program.cs#2014.09.09@00.39:56
+380b68e87e75cc6b6c3cc1b48c396e53 *Program.cs

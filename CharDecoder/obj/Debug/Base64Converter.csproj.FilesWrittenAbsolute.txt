@@ -1,0 +1,11 @@
+/Volumes/SP PHD U3/Paulo/usb/CharDecoder/CharDecoder/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/Volumes/SP PHD U3/Paulo/usb/CharDecoder/CharDecoder/obj/Debug/Base64Converter.MainForm.resources
+/Volumes/SP PHD U3/Paulo/usb/CharDecoder/CharDecoder/obj/Debug/Base64Converter.Properties.Resources.resources
+/Volumes/SP PHD U3/Paulo/usb/CharDecoder/CharDecoder/bin/Debug/CharDecoder.exe.config
+/Volumes/SP PHD U3/Paulo/usb/CharDecoder/CharDecoder/bin/Debug/CharDecoder.exe.mdb
+/Volumes/SP PHD U3/Paulo/usb/CharDecoder/CharDecoder/bin/Debug/CharDecoder.exe
+/Volumes/SP PHD U3/Paulo/usb/CharDecoder/CharDecoder/obj/Debug/CharDecoder.exe
+/Volumes/SP PHD U3/Paulo/usb/CharDecoder/CharDecoder/obj/Debug/CharDecoder.exe.mdb
+/Volumes/SP PHD U3/Paulo/usb/CharDecoder/CharDecoder/bin/Debug/EntityFramework.dll
+/Volumes/SP PHD U3/Paulo/usb/CharDecoder/CharDecoder/bin/Debug/Base64Library.dll
+/Volumes/SP PHD U3/Paulo/usb/CharDecoder/CharDecoder/bin/Debug/Base64Library.dll.mdb
